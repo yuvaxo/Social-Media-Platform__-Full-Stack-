@@ -1,10 +1,6 @@
-<h1 align="center" style="font-size: 52px;" ><img height=30 src="./images-for-README/dove.png"> SocialSpace - A Social Media Platform</h1>
+<h1 align="center" style="font-size: 52px;" > Social - A Social Media Platform</h1>
 
-This is a full-stack web application that functions as a social media platform. The application includes key social media features, enabling users to create, like, and comment on posts. The aim is to provide a user-friendly and engaging platform where individuals can share their thoughts, interact with others, and stay connected. Each feature is designed with an emphasis on ease of use, promoting a seamless social media experience.
-
-<br/>
-
-![](./images-for-README/SocialSpace-banner.png)
+This is a full-stack web application that functions as a social media platform. The application includes key social media features, enabling users to create, like, and comment on posts. The aim is to provide a user-friendly and engaging platform where individuals can share their thoughts, interact with others, and stay connected. Each feature is designed with an emphasis on ease of use, promoting a seamless social media 
 
 ## 🛠 Installation & Set Up
 
@@ -69,21 +65,6 @@ docker-compose up -d
 
 You need to specify your Docker Hub username and password as environment variables in your Jenkins instance, using the **DOCKER_HUB_USERNAME** and **DOCKER_HUB_PASSWORD** variables respectively.
 
-## :camera_flash: Project Showcase
-
-### 📱 Mobile View
-
-![](./images-for-README/mobile/mobile-showcase.png)
-
-### 🖥 Desktop View
-
-![](./images-for-README/desktop/upload-profile-pic.png)
-![](./images-for-README/desktop/profile.png)
-![](./images-for-README/desktop/home.png)
-![](./images-for-README/desktop/create-post.png)
-
-## 🎯 Features
-
 ### Implemented
 
 ✅ Log In
@@ -112,33 +93,12 @@ You need to specify your Docker Hub username and password as environment variabl
 
 ❗ Change Password
 
-❗ Delete Account
-
-## 🙌 Contribution Guidelines
-
-We welcome contributions from the community. To submit a pull request:
-
-1. Fork the repository.
-2. Clone the forked repository.
-3. Create a new branch for your contribution.
-4. Make the changes.
-5. Commit and push the changes to your forked repository.
-6. Create a pull request.
-
-## 🔑 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
+❗ Delete Account 
 
 ## 🧑 Author
 
-#### Muhammad Sarmad Qadeer
-
-[![LinkedIn Link](https://img.shields.io/badge/Connect-Sarmad-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect)](https://www.linkedin.com/in/msarmadqadeer/)
-
-You can also follow my GitHub Profile to stay updated about my latest projects:
-
-[![GitHub Follow](https://img.shields.io/badge/Connect-Sarmad-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/MSarmadQadeer)
+#### K YUVA SHANKAR 
 
 If you liked the repo then kindly support it by giving it a star ⭐!
 
-Copyright (c) 2023 MUHAMMAD SARMAD QADEER
+Copyright (c) 2025 K YUVA SHANKAR 
