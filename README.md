@@ -102,3 +102,6 @@ You need to specify your Docker Hub username and password as environment variabl
 If you liked the repo then kindly support it by giving it a star ⭐!
 
 Copyright (c) 2025 K YUVA SHANKAR 
+**Developed 
+by:** [K.YUVA SHANKAR](https://www.linkedin.com/in/yuva-shankar-4ba786228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
